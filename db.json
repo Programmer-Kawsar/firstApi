@@ -13,6 +13,34 @@
       "phone": "01754478962",
       "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
       "id": 2
+    },
+    {
+      "name": "Sobuj Sorkar",
+      "email": "sobuj@gmail.com",
+      "phone": "01955478852",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPICw0MvHj_wo8CMy5anGtsvBzqAJSQtDFw&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "Rony",
+      "email": "rony@gmail.com",
+      "phone": "01854125674",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg",
+      "id": 4
+    },
+    {
+      "name": "Zia",
+      "email": "zia@gmail.com",
+      "phone": "01236587941",
+      "photo": "https://www.ultimatebeaver.com/wp-content/uploads/2021/04/photo-gallery-img-02.jpg",
+      "id": 5
+    },
+    {
+      "name": "Sumon",
+      "email": "sumon@gmail.com",
+      "phone": "01879554752",
+      "photo": "https://www.ultimatebeaver.com/wp-content/uploads/2021/04/photo-gallery-img-02.jpg",
+      "id": 6
     }
   ],
   "customers": []
